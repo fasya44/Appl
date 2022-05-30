@@ -1,0 +1,8 @@
+1. Install
+buka terminal/cmd, masuk ke direktori dimana source code ini tersimpan, lalu jalankan perintah berikut: $ pip install -r requirements.txt
+
+2.Menjalankan
+untuk menjalankan program ini, jalankan perintah berikut:$ python main.py
+
+3.Menggambar 
+untuk mengetahui aplikasi ini berjalan, maka kita dapat menggambar bentuk dasar seperti persegi, lingkaran, dan segitiga.
